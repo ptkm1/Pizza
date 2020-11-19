@@ -1,0 +1,13 @@
+<svg width="270" height="270" viewBox="0 0 270 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M135 270V0C60.4416 0 0 60.4416 0 135C0 209.558 60.4416 270 135 270Z" fill="#FF1818"/>
+<circle cx="63" cy="229" r="6" fill="#C4C4C4"/>
+<circle cx="81" cy="210" r="6" fill="#C4C4C4"/>
+<circle cx="51" cy="198" r="6" fill="#C4C4C4"/>
+<circle cx="81" cy="173" r="6" fill="#C4C4C4"/>
+<circle cx="57" cy="154" r="6" fill="#C4C4C4"/>
+<circle cx="87" cy="120" r="6" fill="#C4C4C4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M135 0V270C209.558 270 270 209.558 270 135C270 60.4416 209.558 0 135 0Z" fill="#FF1818"/>
+<circle cx="189" cy="97" r="6" transform="rotate(-180 189 97)" fill="#C4C4C4"/>
+<circle cx="213" cy="116" r="6" transform="rotate(-180 213 116)" fill="#C4C4C4"/>
+<circle cx="183" cy="150" r="6" transform="rotate(-180 183 150)" fill="#C4C4C4"/>
+</svg>
